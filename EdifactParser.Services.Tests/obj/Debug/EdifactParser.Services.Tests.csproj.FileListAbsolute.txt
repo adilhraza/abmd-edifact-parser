@@ -1,0 +1,16 @@
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\EdifactParser.Services.Tests.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\EdifactParser.Services.Tests.pdb
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\EdifactParser.Services.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\EdifactParser.Services.pdb
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\obj\Debug\EdifactParser.Services.Tests.csprojAssemblyReference.cache
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\obj\Debug\EdifactParser.Services.Tests.csproj.CoreCompileInputs.cache
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\obj\Debug\EdifactParser.Services.Tests.csproj.CopyComplete
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\obj\Debug\EdifactParser.Services.Tests.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services.Tests\obj\Debug\EdifactParser.Services.Tests.pdb

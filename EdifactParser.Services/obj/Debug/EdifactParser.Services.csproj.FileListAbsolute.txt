@@ -1,0 +1,6 @@
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services\bin\Debug\EdifactParser.Services.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services\bin\Debug\EdifactParser.Services.pdb
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services\obj\Debug\EdifactParser.Services.csprojAssemblyReference.cache
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services\obj\Debug\EdifactParser.Services.csproj.CoreCompileInputs.cache
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services\obj\Debug\EdifactParser.Services.dll
+D:\gd\dev\JobTests\EdifactParser\EdifactParser.Services\obj\Debug\EdifactParser.Services.pdb
